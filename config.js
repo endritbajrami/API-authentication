@@ -1,7 +1,7 @@
 let config = {
-    host:'localhost',
-    user:'root',
-    password:'root',
-    database:'db'
+    host:'',
+    user:'',
+    password:'',
+    database:''
 }
 module.exports = config
